@@ -1,4 +1,8 @@
-# Todominal
+<h1 align="center">
+	<img src="https://cdn.sekiryl.is-a.dev/logo/todominal.png" width="150" alt="Logo"/></br>
+	Todominal
+</h1>
+
 Minimal todo list for terminal and rofi.
 > [!Note]
 > This is my first project made using C++ and I am also very stupid when it comes to coding so the code is very messy and inefficient *(IT WORKS)*. Feel free to open a pull request for improvements.
